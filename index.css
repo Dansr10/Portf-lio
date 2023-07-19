@@ -1,0 +1,31 @@
+body {  
+    color: white;
+    background-color: black;
+    font-family: arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+
+.center{
+    text-align: center;
+}
